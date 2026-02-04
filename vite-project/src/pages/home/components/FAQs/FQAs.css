@@ -1,0 +1,22 @@
+
+/* color  Buttons*/
+/* .color_details {
+  background: rgba(255, 255, 255, 0.09);
+  backdrop-filter: blur(5.5px);
+  -webkit-backdrop-filter: blur(5.5px);
+  backdrop-filter: blur(4.199999809265137px);
+}
+
+  */
+
+
+
+/* color  Buttons*/
+.color_details {
+  background:   #ffffff;
+  backdrop-filter: blur(5.5px);
+  -webkit-backdrop-filter: blur(5.5px);
+  backdrop-filter: blur(4.199999809265137px);
+}
+
+ 
